@@ -14,7 +14,7 @@ ms.reviewer: edupont
 ---
 # Account framework
 
-Use the information in this chapter to plan your account framework for your company. A framework is a set of maximum values, such as maximum segment lengths that each of your company’s account formats must fit within. The account framework is very difficult to change later after it’s set up.
+Use the information in this chapter to plan your account framework for your company. A framework is a set of maximum values, such as maximum segment lengths that each of your company’s account formats must fit within. The account framework is very difficult to change later after it’s set up. TEST EDIT.
 
 > [!WARNING]
 > The account framework you enter in the Dynamics GP Utilities will be used for the account format in all companies you’re planning to set up.  
