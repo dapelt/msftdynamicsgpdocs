@@ -30,7 +30,7 @@ The following components also must be installed before you can install Dynamics 
 
 - Visual C++ 2015 Runtime Libraries (x86)
 
-- Visual Basic for Applications Core
+- Visual Basic for Applications Core (this redist is no longer supportedl it's offered as-is)
 
 - Microsoft SQL Server Native Client 10.0
 
